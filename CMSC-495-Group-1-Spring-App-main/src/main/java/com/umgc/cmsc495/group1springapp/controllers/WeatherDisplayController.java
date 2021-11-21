@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * Author: Brandon Shaffer
- * Date: 11/13/2021
+ * Author: Hiren Shah
+ * Date: 11/20/2021
  */
 @Controller
 public class WeatherDisplayController {
